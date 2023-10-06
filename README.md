@@ -1,6 +1,5 @@
 # Self-Balancing-Segway-
-The code to run a self balancing segway through a pyboard that can also dance. 
-A PID controller is used to control the yaw of the robot and keep it balanced whilst a energy detection algorithm detects the music beats.
+A Pyboard-controlled self-balancing segway with dance capabilities. It employs a PID controller for precise yaw control and balance maintenance. Furthermore, an energy detection algorithm ensures synchronized dance movements in response to music beats.
 
 ## Balancing the Segway
 
